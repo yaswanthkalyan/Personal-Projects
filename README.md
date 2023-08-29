@@ -1,2 +1,2 @@
 # yaswanth
-hello in this repo iam keeping my personal projects 
+Hello in this repo I am keeping my personal projects based on machine learning.....
